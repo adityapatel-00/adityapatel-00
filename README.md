@@ -3,6 +3,7 @@
 * Software Developer 👩🏻‍💻
 * Loves to contribute to open-source. ✨
 * Ping me if you want to collaborate or talk about tech. 💬
+* Connect with me at adityasurishetti@gmail.com
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-surishetti)

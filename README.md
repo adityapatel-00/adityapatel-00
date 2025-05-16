@@ -1,6 +1,6 @@
 # Hi there! I'm Aditya Surishetti 👋
 
-* Software Developer 👩🏻‍💻
+* Software Engineer 👩🏻‍💻
 * Loves to contribute to open-source. ✨
 * Ping me if you want to collaborate or talk about tech. 💬
 * Connect with me at adityasurishetti@gmail.com 📧
